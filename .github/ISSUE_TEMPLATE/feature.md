@@ -1,6 +1,6 @@
 ---
-name: feature
-about: create a new task
+name: Feature
+about: Create a new task
 title: ''
 labels: feature
 assignees: ''
