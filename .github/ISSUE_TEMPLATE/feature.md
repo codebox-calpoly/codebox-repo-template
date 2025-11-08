@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Feature
+## Description
 Short description and context of the task
 
 ## Acceptance Criteria
