@@ -1,12 +1,12 @@
-# name of project
+# Project Name
 
-{one sentence description of the project}
+Short project description
 
 ## Overview
 
 ### Purpose
 
-{short paragraph description}
+Short paragraph description
 
 ### Team
 
